@@ -1,0 +1,17 @@
+h1{
+    color:brown;
+}
+
+.header{
+    background-color: cyan;
+}
+
+.footer{
+    background-color: crimson;
+    color:yellow;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    
+}
+
